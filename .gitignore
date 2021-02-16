@@ -5,3 +5,7 @@ dev
 .idea
 coverage
 docs/examples
+docs-examples
+fp-ts.tgz
+*.docset/Contents/Resources/docSet.dsidx
+*.docset/Contents/Resources/Documents/*.html
